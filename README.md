@@ -1,6 +1,5 @@
 # Wildrydes project
 
-
 Sample project from AWS [Build a serverless Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/).
 
 ## Screenshot
